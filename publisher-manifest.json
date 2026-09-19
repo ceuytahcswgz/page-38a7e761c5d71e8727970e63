@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "c44af4d6c77cf0aab1febeb4",
+  "owner": "ceuytahcswgz",
+  "repo": "page-38a7e761c5d71e8727970e63",
+  "title": "clash verge服务商官网",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "38a7e761c5d71e8727970e63",
+      "a": "可莉云",
+      "b": "clash verge服务商官网",
+      "entity": "可莉云",
+      "brand": "clash verge服务商官网",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "4c5d8f416aa85321132fb9b58bb8760e18ab01eed331b2575e5d61141b5fc007",
+      "content": {
+        "primary_entity": "可莉云",
+        "keyword1": "可莉云",
+        "keyword2": "clash verge服务商官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择适配的 Clash 客户端，从桌面到移动端均可找到相应版本。",
+          "AI_CLIENTS_TITLE": "设备客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，按客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐，即刻连接",
+          "AI_DESCRIPTION": "，按设备数量与流量需求划分基础版、旗舰版与团队版三档，适合个人、家庭与小型团队选择。日常浏览与流媒体使用可选基础版，多设备与专线需求可升级旗舰版，团队协作则适合团队版。",
+          "AI_FEATURES_INTRO": "围绕套餐档位、设备数量与订阅周期展开对比，快速定位合适方案。",
+          "AI_FEATURES_TITLE": "套餐与设备选择",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，适合轻度使用；旗舰版每月 300GB、5 台设备，覆盖更多场景。",
+          "AI_FEATURE_TEXT_2": "团队版每月 1000GB、20 台设备，并支持企业定制路由，满足多人协同使用。",
+          "AI_FEATURE_TEXT_3": "三档套餐均提供年付价格，按年支付比月付更划算，长期使用可优先考虑年付方案。",
+          "AI_FEATURE_TITLE_1": "档位对比",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "从选择服务到完成配置，按三个步骤操作即可在常用设备上使用。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_HERO_INTRO": "可莉云提供多档海外加速套餐，按设备数量与流量需求划分，覆盖桌面与移动端常用客户端。订阅导入后即可在 Clash 类客户端中使用，套餐从基础到团队协作均有对应方案。",
+          "AI_HERO_SUBTITLE": "多设备海外加速套餐",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "多设备同时在线",
+          "AI_HIGHLIGHT_3": "年付方案更划算",
+          "AI_PLANS_INTRO": "按每月流量与在线设备数量对比三档套餐，年付价格更优惠。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常设备数量与月流量需求，在基础版、旗舰版与团队版中选择合适的套餐。",
+          "AI_STEP_TEXT_2": "确认所选套餐支持的设备数量与订阅周期，确保满足当前使用场景。",
+          "AI_STEP_TEXT_3": "在对应设备上安装 Clash 客户端，参照客户端文档导入订阅地址完成配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "确认适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "可莉云套餐选择",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "可莉云套餐可以随时升级吗？",
+          "AI_FAQ_ANSWER_1": "支持在已有订阅基础上选择更高层级套餐，升级后流量额度与设备数量按新套餐执行，具体差额处理以购买记录中的说明为准。",
+          "AI_FAQ_QUESTION_2": "一个订阅能同时在几台设备使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备同时在线，旗舰版为5台，团队版为20台。超出限制的设备需要等待其他设备下线或选择更高层级套餐。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付相当于一次性支付全年费用，折算到每月单价更低。基础版年付¥150，旗舰版年付¥350，团队版年付¥850，权益与对应月付套餐一致。",
+          "AI_FAQ_QUESTION_4": "旗舰版和基础版的线路有区别吗？",
+          "AI_FAQ_ANSWER_4": "旗舰版使用IPLC专线并针对游戏加速优化，支持全节点原生流媒体解锁；基础版使用普通线路节点池并解锁基础流媒体，适合日常浏览与轻量使用。",
+          "AI_FAQ_QUESTION_5": "团队版是否支持多人管理？",
+          "AI_FAQ_ANSWER_5": "团队版提供20台设备同时在线、VIP专属高带宽节点与专属客户经理服务，并支持企业定制路由，适合小组或公司统一配置使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "e237c367e9cad003e6ab3353bea8d7781f626fe217affce10e1a38087511e9ea",
+    "sitemap.xml": "7bcc1c003b0dce518ca84af0ee8a0c882ff491e9e02fe3b98c040254f5908c1a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "d845a3044cec29f5be8d013d94ef2bd70fbfc6c80028edd6aa122c089c5bb4c4"
+}
